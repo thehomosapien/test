@@ -25,9 +25,9 @@ Now days there are thousand of altcoins without any real use and backing. With  
 
 # Dependencies & Compilation
 
-Bankcoin requires [Ubutnu 16.04](http://releases.ubuntu.com/16.04/)
-Mininum: 2 GB RAM
-A modern prcoessor with minimum 2 Cores
+* Operating System: [Ubutnu 16.04](http://releases.ubuntu.com/16.04/)
+* RAM: Minumum 2 GB
+* A modern prcoessor with minimum 2 Cores
 
 Install the dependencies in desktop or server:
 
