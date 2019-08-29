@@ -29,7 +29,7 @@ Now days there are thousand of altcoins without any real use and backing. With  
 * RAM: Minumum 2 GB
 * A modern prcoessor with minimum 2 Cores
 
-If you are running an exchange or any other application and want to integrate Bankcoin Reserve there, please [Contact Us] here (https://bankcoinreserve.io/contact/) for Yellow Paper and Technical Support.
+If you are running an exchange or any other application and want to integrate Bankcoin Reserve there, please [Contact Us](https://bankcoinreserve.io/contact/) here  for Yellow Paper and Technical Support.
 
 Install the dependencies in desktop or server:
 
