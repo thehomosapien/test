@@ -22,6 +22,7 @@ Now days there are thousand of altcoins without any real use and backing. With  
 | Website | https://bankcoinreserve.io |
 | Block Explorer | https://explorer.bankcoinreserve.io |
 | Windows Wallet | https://bankcoinreserve.io/wallet |
+| White Paper | https://bankcoinreserve.io/whitepaper |
 
 # Dependencies & Compilation
 
